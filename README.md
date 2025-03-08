@@ -1,7 +1,7 @@
 # Ai_linux_command
 It is about using the terminal to let AI assist in translating human language into executable commands.
 for linux only.
-setup step-to-step:
+# setup step-to-step:
 1.
 ```
   cd Ai_linux_command
